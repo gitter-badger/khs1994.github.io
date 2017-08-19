@@ -2,737 +2,737 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.khs1994.com/php/thinkphp/README.html</loc>
+    <loc>https://www.khs1994.com/dev-tools/git/gitlab-docker.html</loc>
     
-    <lastmod>2017-08-18T15:07:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/nginx-lets-encrypt.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/basic/path.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/apache-gcc.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/apache-conf.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/apache-php.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/nginx-conf.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/nginx-gcc.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/nginx-error-conf.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/nginx-https.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/basic/array.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/php-conf.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/php-gcc.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/php-memcached.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/php-mongodb.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/php-mysql.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/php-redis.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/dev-env/xdebug-macos.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/laravel/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/php/laravel/ide.html</loc>
-    
-    <lastmod>2017-08-18T15:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/tools/firefox.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/tools/chrome-vysor.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/tools/plank.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/story.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/tools/youget.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/story2.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/nodejs/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/nodejs/npm.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/fedora.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/ubuntu.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/python/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/python/gcc.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/python/mysql.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/raspberry-pi3/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/raspberry-pi3/gcc.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/raspberry-pi3/mysql.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/raspberry-pi3/spi.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/raspberry-pi3/wifi.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/vm/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/vm/ubuntu-efi.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/brew.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/gdb.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/story3.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/terminal/fish.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/terminal/rec.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/python/django/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/git/github.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-hexo.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-nginx.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/git/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/git/gitbook.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/android/android-studio-linux32.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/git/gitlab-docker.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/git/gogs.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/git/self-standard.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/coreos/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/coreos/install-disk.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/coreos/pxe.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/compose.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/machine.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/registry-v2.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/server/dhcp.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/server/dns.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/server/duankou.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/server/email.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/server/pxe.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/ssh-proxy.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/ssh.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/systemd.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/ubuntu-init.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/c/gcc.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/atom.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/dev-tools/vim.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/android/nexus.html</loc>
+    <loc>https://www.khs1994.com/os/macos/story2.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/docker/lnmp.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/atom.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/docker/open-source.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/ios/cocoapods.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/java/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/java/gradle-javaweb.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/java/gradle.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/java/maven.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/java/mvn-javaweb.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/centos-init.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/linux/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/cms/hexo/README.html</loc>
+    <loc>https://www.khs1994.com/linux/centos-init.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/ssh.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/systemd.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/ssh-proxy.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/ubuntu-init.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/nodejs/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/nodejs/npm.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/fedora.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/ubuntu.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/python/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/python/gcc.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/python/mysql.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/raspberry-pi3/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/raspberry-pi3/gcc.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/raspberry-pi3/mysql.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/raspberry-pi3/spi.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/raspberry-pi3/wifi.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/vm/ubuntu-efi.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/vm/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/cms/hexo/themes-update.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/cms/hexo/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/cms/typecho/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/cms/wordpress/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/database/mongodb/README.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/mysql/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/database/mongodb/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/mysql/m-s.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/redis/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/database/redis/hash.html</loc>
-    
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/redis/key.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/database/redis/hash.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/redis/list.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/redis/set.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/redis/sorted-set.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/database/redis/string.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/dev-tools/ci/README.html</loc>
     
-    <lastmod>2017-08-18T15:07:40.000Z</lastmod>
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-hexo.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-nginx.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/git/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/git/gitbook.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/android/nexus.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/git/github.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/git/gogs.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/git/self-standard.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/coreos/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/coreos/install-disk.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/coreos/pxe.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/official-tools/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/official-tools/compose.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/official-tools/machine.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/official-tools/registry-v2.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/server/dhcp.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/server/duankou.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/server/dns.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/server/email.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/linux/server/pxe.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/macos/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/macos/gdb.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/macos/brew.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/macos/story3.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/terminal/fish.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/terminal/rec.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/tools/chrome-vysor.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/tools/firefox.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/tools/plank.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/tools/youget.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/macos/story.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/python/django/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/php-mongodb.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/README.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/apache-gcc.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/apache-php.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/nginx-conf.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/nginx-error-conf.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/nginx-gcc.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/nginx-https.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/nginx-lets-encrypt.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/php-conf.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/php-gcc.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/php-memcached.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/apache-conf.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/php-mysql.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/php-redis.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/dev-env/xdebug-macos.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/laravel/README.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/laravel/ide.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/thinkphp/README.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/basic/path.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/php/basic/array.html</loc>
+    
+    <lastmod>2017-08-17T17:02:12.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/about.html</loc>
     
-    <lastmod>2017-08-13T15:48:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/tags.html</loc>
-    
-    <lastmod>2017-03-30T04:53:58.000Z</lastmod>
+    <lastmod>2017-08-14T12:21:31.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/categories.html</loc>
     
-    <lastmod>2017-03-30T04:53:45.000Z</lastmod>
+    <lastmod>2017-08-13T02:28:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/tags.html</loc>
+    
+    <lastmod>2017-08-13T02:28:22.000Z</lastmod>
     
   </url>
   
