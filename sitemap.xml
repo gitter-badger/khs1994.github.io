@@ -2,35 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.khs1994.com/dev-tools/git/gitlab-docker.html</loc>
+    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-hexo.html</loc>
     
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    <lastmod>2017-08-20T07:15:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-gitbook.html</loc>
+    
+    <lastmod>2017-08-20T07:15:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-nginx.html</loc>
+    
+    <lastmod>2017-08-20T07:15:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/compose.html</loc>
+    
+    <lastmod>2017-08-20T03:18:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/machine.html</loc>
+    
+    <lastmod>2017-08-20T03:18:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/docker/registry-v2.html</loc>
+    
+    <lastmod>2017-08-20T03:18:02.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.khs1994.com/android/android-studio-linux32.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/c/gcc.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/dev-tools/vim.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/os/macos/story2.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -44,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/dev-tools/atom.html</loc>
+    <loc>https://www.khs1994.com/c/gcc.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/docker/open-source.html</loc>
+    <loc>https://www.khs1994.com/dev-tools/atom.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -114,6 +128,13 @@
   </url>
   
   <url>
+    <loc>https://www.khs1994.com/linux/ssh-proxy.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.khs1994.com/linux/ssh.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
@@ -122,13 +143,6 @@
   
   <url>
     <loc>https://www.khs1994.com/linux/systemd.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/linux/ssh-proxy.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -226,13 +240,6 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/vm/ubuntu-efi.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.khs1994.com/vm/README.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
@@ -240,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/cms/hexo/themes-update.html</loc>
+    <loc>https://www.khs1994.com/vm/ubuntu-efi.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -248,6 +255,13 @@
   
   <url>
     <loc>https://www.khs1994.com/cms/hexo/README.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/cms/hexo/themes-update.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -268,14 +282,14 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/database/mysql/README.html</loc>
+    <loc>https://www.khs1994.com/database/mongodb/README.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/database/mongodb/README.html</loc>
+    <loc>https://www.khs1994.com/database/mysql/README.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -296,14 +310,14 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/database/redis/key.html</loc>
+    <loc>https://www.khs1994.com/database/redis/hash.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/database/redis/hash.html</loc>
+    <loc>https://www.khs1994.com/database/redis/key.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -345,14 +359,21 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-hexo.html</loc>
+    <loc>https://www.khs1994.com/dev-tools/vim.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/dev-tools/ci/travis-ci-nginx.html</loc>
+    <loc>https://www.khs1994.com/android/nexus.html</loc>
+    
+    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.khs1994.com/os/macos/story2.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -373,14 +394,14 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/android/nexus.html</loc>
+    <loc>https://www.khs1994.com/dev-tools/git/github.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/dev-tools/git/github.html</loc>
+    <loc>https://www.khs1994.com/dev-tools/git/gitlab-docker.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -422,34 +443,6 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/docker/official-tools/README.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/compose.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/machine.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.khs1994.com/docker/official-tools/registry-v2.html</loc>
-    
-    <lastmod>2017-08-18T07:33:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.khs1994.com/linux/server/dhcp.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
@@ -457,14 +450,14 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/linux/server/duankou.html</loc>
+    <loc>https://www.khs1994.com/linux/server/dns.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/linux/server/dns.html</loc>
+    <loc>https://www.khs1994.com/linux/server/duankou.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
@@ -492,14 +485,14 @@
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/os/macos/gdb.html</loc>
+    <loc>https://www.khs1994.com/os/macos/brew.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.khs1994.com/os/macos/brew.html</loc>
+    <loc>https://www.khs1994.com/os/macos/gdb.html</loc>
     
     <lastmod>2017-08-18T07:33:24.000Z</lastmod>
     

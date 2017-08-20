@@ -98,18 +98,18 @@
 
 
 
-<meta name="description" content="2017.03(新版)Docker CE配置REPO Install yum-utils, which provides the yum-config-manager utility:  1$ sudo yum install -y yum-utils">
+<meta name="description" content="安装##配置REPO  Install yum-utils, which provides the yum-config-manager utility:  1$ sudo yum install -y yum-utils">
 <meta name="keywords" content="Docker">
 <meta property="og:type" content="article">
-<meta property="og:title" content="CentOS7 最小化安装 Docker 初始化配置">
+<meta property="og:title" content="CentOS7 安装 Docker">
 <meta property="og:url" content="https://www.khs1994.com/docker/README.html">
 <meta property="og:site_name" content="康怀帅个人博客">
-<meta property="og:description" content="2017.03(新版)Docker CE配置REPO Install yum-utils, which provides the yum-config-manager utility:  1$ sudo yum install -y yum-utils">
+<meta property="og:description" content="安装##配置REPO  Install yum-utils, which provides the yum-config-manager utility:  1$ sudo yum install -y yum-utils">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:updated_time" content="2016-06-12T04:00:00.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="CentOS7 最小化安装 Docker 初始化配置">
-<meta name="twitter:description" content="2017.03(新版)Docker CE配置REPO Install yum-utils, which provides the yum-config-manager utility:  1$ sudo yum install -y yum-utils">
+<meta name="twitter:title" content="CentOS7 安装 Docker">
+<meta name="twitter:description" content="安装##配置REPO  Install yum-utils, which provides the yum-config-manager utility:  1$ sudo yum install -y yum-utils">
 
 
 
@@ -144,7 +144,7 @@
 
 
 
-  <title>CentOS7 最小化安装 Docker 初始化配置 | 康怀帅个人博客</title>
+  <title>CentOS7 安装 Docker | 康怀帅个人博客</title>
   
 
 
@@ -342,7 +342,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">CentOS7 最小化安装 Docker 初始化配置</h2>
+          <h2 class="post-title" itemprop="name headline">CentOS7 安装 Docker</h2>
         
 
         <div class="post-meta">
@@ -394,7 +394,7 @@
 
           
           
-             <span id="/docker/README.html" class="leancloud_visitors" data-flag-title="CentOS7 最小化安装 Docker 初始化配置">
+             <span id="/docker/README.html" class="leancloud_visitors" data-flag-title="CentOS7 安装 Docker">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -425,7 +425,8 @@
       
 
       
-        <h1 id="2017-03-新版"><a href="#2017-03-新版" class="headerlink" title="2017.03(新版)"></a>2017.03(新版)</h1><h2 id="Docker-CE"><a href="#Docker-CE" class="headerlink" title="Docker CE"></a>Docker CE</h2><h3 id="配置REPO"><a href="#配置REPO" class="headerlink" title="配置REPO"></a>配置REPO</h3><blockquote>
+        <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>##配置REPO</p>
+<blockquote>
 <p>Install yum-utils, which provides the yum-config-manager utility:</p>
 </blockquote>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo yum install -y yum-utils</div></pre></td></tr></table></figure>
@@ -438,21 +439,28 @@
 <p>You can disable the edge repository by running the yum-config-manager command with the –disable flag. To re-enable it, use the –enable flag.</p>
 </blockquote>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ sudo yum-config-manager --<span class="built_in">enable</span> docker-ce-edge</div><div class="line">$ sudo yum-config-manager --<span class="built_in">disable</span> docker-ce-edge</div></pre></td></tr></table></figure>
-<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo yum install docker-ce-&lt;VERSION&gt;</div></pre></td></tr></table></figure>
-<h1 id="国内镜像加速"><a href="#国内镜像加速" class="headerlink" title="国内镜像加速"></a>国内镜像加速</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ vi /lib/systemd/system/docker.service</div><div class="line"></div><div class="line">ExecStart=/usr/bin/dockerd --registry-mirror=https://wcafmbzt.mirror.aliyuncs.com</div><div class="line"></div><div class="line"><span class="comment">#在`ExecStart=/usr/bin/dockerd`之后加上如上所示内容</span></div></pre></td></tr></table></figure>
+<h2 id="安装-1"><a href="#安装-1" class="headerlink" title="安装"></a>安装</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line">$ sudo yum install docker-ce-&lt;VERSION&gt;</div><div class="line"></div><div class="line"><span class="comment"># Enable the service.</span></div><div class="line"></div><div class="line">$ sudo systemctl <span class="built_in">enable</span> docker.service</div><div class="line"></div><div class="line"><span class="comment"># Start the Docker daemon.</span></div><div class="line"></div><div class="line">$ sudo systemctl start docker</div><div class="line"></div><div class="line"><span class="comment"># Create the docker group.</span></div><div class="line"></div><div class="line">$ sudo groupadd docker</div><div class="line"></div><div class="line"><span class="comment"># Add your user to docker group.</span></div><div class="line"></div><div class="line">$ sudo usermod -aG docker your_username</div><div class="line"></div><div class="line"><span class="comment"># Log out and log back in.</span></div><div class="line"><span class="comment"># This ensures your user is running with the correct permissions.Verify that your user is in the docker group by running docker without sudo.  </span></div><div class="line"></div><div class="line">$ docker run --rm hello-world</div></pre></td></tr></table></figure>
+<h2 id="国内镜像加速"><a href="#国内镜像加速" class="headerlink" title="国内镜像加速"></a>国内镜像加速</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ vi /lib/systemd/system/docker.service</div><div class="line"></div><div class="line">ExecStart=/usr/bin/dockerd --registry-mirror=https://wcafmbzt.mirror.aliyuncs.com</div><div class="line"></div><div class="line"><span class="comment">#在`ExecStart=/usr/bin/dockerd`之后加上如上所示内容</span></div></pre></td></tr></table></figure>
 <h1 id="创建Docker网络"><a href="#创建Docker网络" class="headerlink" title="创建Docker网络"></a>创建Docker网络</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ docker network create --subnet=192.168.0.0/24 <span class="built_in">test</span></div><div class="line">$ docker network connect <span class="built_in">test</span> web（容器名）</div><div class="line">$ docker network disconnect <span class="built_in">test</span> web（容器名）</div><div class="line">$ docker run -it --network=<span class="built_in">test</span> --ip 192.168.0.100 centos</div></pre></td></tr></table></figure>
 <h1 id="卸载"><a href="#卸载" class="headerlink" title="卸载"></a>卸载</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo rm -rf /var/lib/docker</div></pre></td></tr></table></figure>
-<h1 id="使用阿里云源安装-旧版"><a href="#使用阿里云源安装-旧版" class="headerlink" title="使用阿里云源安装(旧版)"></a>使用阿里云源安装(旧版)</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">$ sudo tee /etc/yum.repos.d/docker.repo &lt;&lt;-<span class="string">'EOF'</span></div><div class="line">    [docker-main-repo]</div><div class="line">    name=Docker main Repository</div><div class="line">    baseurl=http://mirrors.aliyun.com/docker-engine/yum/repo/main/centos/7</div><div class="line">    enabled=1</div><div class="line">    gpgcheck=1</div><div class="line">    gpgkey=http://mirrors.aliyun.com/docker-engine/yum/gpg</div><div class="line">    EOF</div></pre></td></tr></table></figure>
-<h2 id="Install-the-Docker-package"><a href="#Install-the-Docker-package" class="headerlink" title="Install the Docker package."></a>Install the Docker package.</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo yum install docker-engine</div></pre></td></tr></table></figure>
-<h2 id="Enable-the-service"><a href="#Enable-the-service" class="headerlink" title="Enable the service."></a>Enable the service.</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo systemctl <span class="built_in">enable</span> docker.service</div></pre></td></tr></table></figure>
-<h2 id="Start-the-Docker-daemon"><a href="#Start-the-Docker-daemon" class="headerlink" title="Start the Docker daemon."></a>Start the Docker daemon.</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo systemctl start docker</div></pre></td></tr></table></figure>
-<h2 id="Create-the-docker-group"><a href="#Create-the-docker-group" class="headerlink" title="Create the docker group."></a>Create the docker group.</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo groupadd docker</div></pre></td></tr></table></figure>
-<h2 id="Add-your-user-to-docker-group"><a href="#Add-your-user-to-docker-group" class="headerlink" title="Add your user to docker group."></a>Add your user to docker group.</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo usermod -aG docker your_username</div></pre></td></tr></table></figure>
-<h2 id="Log-out-and-log-back-in"><a href="#Log-out-and-log-back-in" class="headerlink" title="Log out and log back in."></a>Log out and log back in.</h2><p>This ensures your user is running with the correct permissions.Verify that your user is in the docker group by running docker without sudo.  </p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ docker run --rm hello-world</div></pre></td></tr></table></figure>
+<h1 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h1><h2 id="Compose"><a href="#Compose" class="headerlink" title="Compose"></a>Compose</h2><blockquote>
+<p>一次运行多个容器</p>
+</blockquote>
+<h2 id="Registry-v2"><a href="#Registry-v2" class="headerlink" title="Registry v2"></a>Registry v2</h2><blockquote>
+<p>私有仓库</p>
+</blockquote>
+<h2 id="Machine"><a href="#Machine" class="headerlink" title="Machine"></a>Machine</h2><blockquote>
+<p>Docker Machine 的产生简化了这一过程，让你可以使用一条命令在你的计算机、公有云平台以及私有数据中心创建及管理 Docker 主机。</p>
+</blockquote>
 <p>相关链接</p>
 <ul>
-<li>官方文档：<a href="https://docs.docker.com/engine/installation/linux/centos/" target="_blank" rel="external">https://docs.docker.com/engine/installation/linux/centos/</a>  </li>
+<li>Docker <a href="https://github.com/docker" target="_blank" rel="external">https://github.com/docker</a></li>
+<li>Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</li>
+<li><a href="https://github.com/moby" target="_blank" rel="external">https://github.com/moby</a></li>
+<li><a href="https://mobyproject.org" target="_blank" rel="external">https://mobyproject.org</a></li>
+<li>linuxkit - a toolkit for building secure, portable and lean operating systems for containers</li>
+<li><a href="https://github.com/linuxkit" target="_blank" rel="external">https://github.com/linuxkit</a></li>
+<li>官方文档：<a href="https://docs.docker.com/engine/installation/linux/docker-ce/centos/" target="_blank" rel="external">https://docs.docker.com/engine/installation/linux/docker-ce/centos/</a>  </li>
 </ul>
 
       
@@ -482,7 +490,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://www.khs1994.com/docker/README.html" title="CentOS7 最小化安装 Docker 初始化配置">https://www.khs1994.com/docker/README.html</a>
+    <a href="https://www.khs1994.com/docker/README.html" title="CentOS7 安装 Docker">https://www.khs1994.com/docker/README.html</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>
@@ -510,8 +518,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/linux/centos-init.html" rel="next" title="CentOS7 最小化安装初始化配置">
-                <i class="fa fa-chevron-left"></i> CentOS7 最小化安装初始化配置
+              <a href="/linux/server/duankou.html" rel="next" title="参看某 IP 端口是否打开">
+                <i class="fa fa-chevron-left"></i> 参看某 IP 端口是否打开
               </a>
             
           </div>
@@ -520,8 +528,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/linux/server/dns.html" rel="prev" title="DNS 服务器配置">
-                DNS 服务器配置 <i class="fa fa-chevron-right"></i>
+              <a href="/linux/centos-init.html" rel="prev" title="CentOS7 最小化安装初始化配置">
+                CentOS7 最小化安装初始化配置 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
